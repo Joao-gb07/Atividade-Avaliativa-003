@@ -19,6 +19,7 @@ public class CalcularMediaAritmetica {
         float media = soma / 10;
         
         System.out.println("A média é " + media);
-
+        
+        scan.close();
     }
 }

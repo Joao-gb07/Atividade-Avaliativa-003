@@ -13,5 +13,6 @@ public class RealizarContagemRegressiva {
             System.out.println(contador);
             contador--;
         }
+        scan.close();
     }
 }

@@ -13,5 +13,6 @@ public class ImprimirValoresInteiros {
             System.out.println(contador);
             contador++;
         }
+        scan.close();
     }
 }

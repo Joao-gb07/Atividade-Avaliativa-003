@@ -20,6 +20,7 @@ public class CalcularSomaNumerosPares {
             contador++; // contador = contador + 1;
         }
         System.out.println("A soma dos numeros pares é: " + soma);
+        scan.close();
     }
     
 }
